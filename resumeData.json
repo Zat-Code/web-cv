@@ -2,10 +2,10 @@
   "main": {
     "name":"THEYTAZ Benjamin",
     "occupation":"Toulouse",
-    "description":"I am passionate about new technologies in particular related to artificial intelligence, image processing and computer science.I try to learn as much as possible about the deployment of artificial intelligence solutions (docker, kubernetes, and cloud), their software architecture and AI frameworks. ",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am passionate about new technologies in particular related to artificial intelligence, image processing and computer science. I try to learn as much as possible about the deployment of artificial intelligence solutions (docker, kubernetes, and cloud), their software architecture and AI frameworks.",
+    "contactmessage":"",
     "email": "benjamin.theytaz@hotmail.fr",
     "phone": "+33652242463",
     "address":{
@@ -14,18 +14,23 @@
       "state":"France",
       "zip": "31000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://theytaz3.github.io/web-cv/#home",
+    "resumedownload":"",
     "social":[
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/benjamin-theytaz/",
         "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/theytaz3",
+        "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"EUPI UCA Clermont Ferrand",
@@ -51,37 +56,41 @@
         "company":"Agreenculture",
         "title":"Computer Vision Engineer",
         "years":"March 2019 - Present",
-        "description":"- Participate in the development of technical solutions on aspects of computer vision and artificial intelligence (machine learning) Participate in the implementation of image analysis architectures (python)"
+        "description":"Participate in the development of technical solutions on aspects of computer vision and artificial intelligence for fruits phenotyping and analysis. Creation of a graphical interface (Qt) and a multi-threaded program for an image acquisition system. Creation of a framework based on a micro-service architecture (with docker) deployed in the cloud (GCP) to analyse features and faults on several types of fruits (Image analysis with Opencv and Tensorflow)."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"70%"
+        "level":"85%"
       },
       {
         "name":"OpenCV",
         "level":"80%"
       },
       {
+        "name":"Tensorflow/Keras",
+        "level":"60%"
+      },
+      {
         "name":"Qt",
         "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"Docker",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"GCP",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"React",
+        "level":"10%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"10%"
       }
     ]
   },
@@ -104,12 +113,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Any sufficiently advanced technology is indistinguishable from magic.",
+        "user":"Richard Dawkins"
       }
     ]
   }
