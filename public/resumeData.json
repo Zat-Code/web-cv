@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"THEYTAZ Benjamin",
+    "occupation":"Toulouse",
+    "description":"I am passionate about new technologies in particular related to artificial intelligence, image processing and computer science.I try to learn as much as possible about the deployment of artificial intelligence solutions (docker, kubernetes, and cloud), their software architecture and AI frameworks. ",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "benjamin.theytaz@hotmail.fr",
+    "phone": "+33652242463",
+    "address":{
+      "street":"3 Rue de l'orient",
+      "city":"Toulouse",
+      "state":"France",
+      "zip": "31000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/benjamin-theytaz/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"EUPI UCA Clermont Ferrand",
+        "degree":"Master of Signal Processing: Embedded systems for signal, image and sound processing",
+        "graduated":"2019",
+        "description":"This course aims to train specialists in software and hardware architecture for signal processing and more particularly for image processing. For this, the initial knowledge base is primarily centered on digital electronics and embedded computing. The second year of the master allows a specialization towards systems dedicated to image processing (FPGA, DSP), as well as a solid training in image processing and artificial vision.  In the end, the core of the professions targeted by the SETSIS course concerns the development of embedded architecture on reconfigurable targets (FPGA) for real-time image processing which, according to OPIIEC (observatory of digital, engineering, research and consulting professions), is one of the skills most sought after by professionals."
+      },
+      {
+        "school":"EUPI UCA Clermont Ferrand",
+        "degree":"Bachelor's degree in Applied Physics and Engineering: Electronics, Electrical Engineering and Automation.",
+        "graduated":"2016",
+        "description":"The objective of this course is to give students a field of knowledge and skills related to the various disciplines of EEA, through theoretical and experimental learning (analog, digital and power electronics, metrology, signal processing, servo systems, electromagnetism ...). "
+      },
+      {
+        "school":"Technical University Institute Clermont Ferrand",
+        "degree":"Technological University Diploma in Physical Measurements",
+        "graduated":"2015",
+        "description":"The DUT in Physical Measurements trains highly qualified and versatile senior technicians who prepare and carry out measurements. They have the knowledge and skills to design and implement a test or inspection protocol for industrial applications (automotive, aeronautics, space, electronics, optics, materials, chemistry, pharmaceuticals, energy, agri-food, biomedical, environment, etc.), analysis laboratories, design offices or research and development departments."
+      }
+    ],
+    "work":[
+      {
+        "company":"Agreenculture",
+        "title":"Computer Vision Engineer",
+        "years":"March 2019 - Present",
+        "description":"- Participate in the development of technical solutions on aspects of computer vision and artificial intelligence (machine learning) Participate in the implementation of image analysis architectures (python)"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"OpenCV",
+        "level":"80%"
+      },
+      {
+        "name":"Qt",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Face Detection",
+        "category":"Face detection with camera tracking using a Pan/Tilt turret",
+        "image":"facial-detector.jpg",
+        "url":"https://www.youtube.com/watch?v=1JmpVh4bS-w"
+      },
+      {
+        "title":"Home fire detector",
+        "category":"Fire detection in domestic environments with YoloV3 (DeepLearning)",
+        "image":"fire-detector.jpg",
+        "url":"https://www.youtube.com/watch?v=VmC3AQP9TcQ"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
